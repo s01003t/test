@@ -8,7 +8,7 @@ public class IndexController {
 
     @GetMapping("/index")
     public String getIndex() {
-        String branch = "hssssot fix";
+        String branch = "test";
         return "sssbaidu";
     }
 
